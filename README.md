@@ -68,7 +68,6 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-quote-api.vercel.app/api?theme=tokyonight&animation=fadeIn&type=horizontal" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=technology" />
 </p>
