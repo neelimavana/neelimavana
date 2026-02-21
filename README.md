@@ -69,7 +69,6 @@
 
 ---
 
-
 <p align="center">
-  ⭐ Turning ideas into intelligent systems.
+  <img src="https://readme-quote-api.vercel.app/api?theme=tokyonight&animation=fadeIn&type=horizontal" />
 </p>
