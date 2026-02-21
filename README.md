@@ -41,8 +41,8 @@
   <a href="https://linkedin.com/in/neelima-vana">
     <img src="https://img.shields.io/badge/LinkedIn-Neelima%20Vana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/neelima975">
-    <img src="https://img.shields.io/badge/GitHub-neelima975-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/neelimavana">
+    <img src="https://img.shields.io/badge/GitHub-neelimavana-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:vana.neelima05@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -63,9 +63,8 @@
 
 
 ### 🟡 Contribution Game Mode
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neelima975/neelima975/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/neelimavana/neelimavana/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
