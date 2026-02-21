@@ -60,6 +60,17 @@
 
 ---
 
+
+
+### 🟡 Contribution Game Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neelima975/neelima975/output/pacman-contribution-graph.svg" />
+</p>
+
+---
+
+
 <p align="center">
   ⭐ Turning ideas into intelligent systems.
 </p>
